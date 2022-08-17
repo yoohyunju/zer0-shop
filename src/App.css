@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: 1000px;
+  height: 500px;
+}

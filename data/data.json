@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "대나무 칫솔",
+      "img" : "/images/bamboo_brush.jpg",
+      "description": "친환경 대나무로 가공되었습니다.",
+      "price": 9900,
+      "cart": false
+    },
+    {
+      "id": 2,
+      "name": "친환경 욕실 세트",
+      "img" : "/images/bathroom.jpg",
+      "description": "친환경 욕실세트 입니다.",
+      "price": 5000,
+      "cart": false
+    },
+    {
+      "id": 3,
+      "name": "샴푸바",
+      "img" : "/images/shampoo_bar.jpg",
+      "description": "거품이 잘 나는 샴푸바입니다.",
+      "price": 9500,
+      "cart": false
+    }
+  ]
+}
